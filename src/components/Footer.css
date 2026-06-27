@@ -1,0 +1,13 @@
+.footerWeb{
+    background: linear-gradient(135deg, var(--pp-brown) 0%, var(--pp-brown-light) 100%);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    margin-top: auto;
+    box-shadow: 0 -4px 12px rgba(93, 58, 26, 0.2);
+}
+
+.footerWeb footer p {
+    color: var(--pp-cream-dark);
+    margin-bottom: 12px;
+}
